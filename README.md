@@ -1,3 +1,3 @@
-# mindstorms_python
+# Mindstorms/Python playground
 
 For playing with Mindstorms and Python
